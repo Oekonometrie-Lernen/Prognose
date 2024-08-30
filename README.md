@@ -1,2 +1,20 @@
-# Prognose
-Die Breite des Prognoseintervalls hängt von folgenden Paramtern ab: Beobachtungsumfang, Signifikanzniveau und die Streuung  der x-Werte. In der Animation sind diese für Sie frei veränderbar, sodass Sie deren Einfluss auf die Breite des Prognoseintervalls studieren können.
+Prognose
+============
+
+Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Packete `shiny` und `ggplot2`. 
+
+```
+# Notwendiges Packet wird installiert
+install.packages("shiny")
+install.packages("ggplot2")
+install.packages("dplyr")
+library(shiny)
+library(ggplot2)
+library(dplyr)
+runGitHub("Prognose", "Oekonometrie-Lernen")
+```
+
+Erfolgreiches Ausführen dieser Schritte wird Ihnen ermöglichen die Animation lokal auf Ihrem eigenen Rechner laufen zu lassen.   
+Ausführliche Informationen wie man eine Anwendung mithilfe des RStudio Shiny Packet schreibt, finden Sie unter folgendem [Tutorium.](http://shiny.rstudio.com/tutorial/)
+
+
