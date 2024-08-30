@@ -1,7 +1,7 @@
 Prognose
 ============
 
-Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Packete `shiny` und `ggplot2`. 
+Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Packete `shiny`, `ggplot2` und `dplyr`. 
 
 ```
 # Notwendiges Packet wird installiert
