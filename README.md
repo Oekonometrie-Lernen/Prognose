@@ -1,7 +1,7 @@
 Prognose
 ============
 
-Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Packete `shiny`, `ggplot2` und `dplyr`. 
+Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie die R Pakete `shiny`, `ggplot2` und `dplyr`. 
 
 ```
 # Notwendiges Packet wird installiert
@@ -15,6 +15,6 @@ runGitHub("Prognose", "Oekonometrie-Lernen")
 ```
 
 Erfolgreiches Ausführen dieser Schritte wird Ihnen ermöglichen die Animation lokal auf Ihrem eigenen Rechner laufen zu lassen.   
-Ausführliche Informationen wie man eine Anwendung mithilfe des RStudio Shiny Packet schreibt, finden Sie unter folgendem [Tutorium.](http://shiny.rstudio.com/tutorial/)
+Ausführliche Informationen wie man eine Anwendung mithilfe des RStudio Shiny Pakets schreibt, finden Sie unter folgendem [Tutorium.](http://shiny.rstudio.com/tutorial/)
 
 
