@@ -7,10 +7,11 @@ Um die Animation auf Ihrem Rechner auszuführen (_Localhost_), benötigen Sie di
 # Notwendiges Packet wird installiert
 install.packages("shiny")
 install.packages("ggplot2")
-install.packages("dplyr")
+install.packages("remotes")
+install_github("AnalytixWare/ShinySky")
 library(shiny)
 library(ggplot2)
-library(dplyr)
+library(shinysky)
 runGitHub("Prognose", "Oekonometrie-Lernen")
 ```
 
