@@ -16,6 +16,7 @@ runGitHub("Prognose", "Oekonometrie-Lernen")
 ```
 
 Bitte achten Sie darauf, dass Ihre R-Version aktuell ist, damit alle Pakete kompatibel sind.
+
 Erfolgreiches Ausführen dieser Schritte wird Ihnen ermöglichen die Animation lokal auf Ihrem eigenen Rechner laufen zu lassen.   
 Ausführliche Informationen wie man eine Anwendung mithilfe des RStudio Shiny Pakets schreibt, finden Sie unter folgendem [Tutorium.](http://shiny.rstudio.com/tutorial/)
 
